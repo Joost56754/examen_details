@@ -35,7 +35,3 @@ Alle Accepterie criteria terug laten komen.
 Vul random gegevens in positief negatief. Opmerkingen een reportage waar een conclusie word getrokken. 
 
 Retrospective: Wat ging goed wat ging niet goed.
-
-
-Retrospective:
-Wat ging goed wat ging niet goed.
