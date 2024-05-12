@@ -15,6 +15,8 @@ Wireframes: Eenvoudige tekeningen die de structuur en lay-out van een applicatie
 Activiteitendiagram: Visualiseert de stappen en beslissingen in een proces, vaak verdeeld in rollen.
 
 ERD (Entity-Relationship Diagram): Toont de relaties tussen verschillende gegevenstabellen.
+![Knipsel](https://github.com/Joost56754/examen_details/assets/93526867/179a387e-9e78-4e3d-8756-617d0d6ada4b)
+
 
 Sitemap: Geeft de structuur en hiërarchie van de navigatie van een website weer.
 
